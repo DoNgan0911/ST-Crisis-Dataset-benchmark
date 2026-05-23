@@ -26,9 +26,9 @@ The benchmark supports evaluation of:
 
 ```text
 ST-Crisis-Dataset/
-├── Flood_CN queries.xlsx
-├── Flood_SA tweets.xlsx
-├── Hurricane_CN queries.xlsx
-├── Hurricane_SA tweets.xlsx
-├── Wildfire_CN queries.xlsx
-└── Wildfire_SA tweets.xlsx
+├── Flood_CN queries.csv
+├── Flood_SA tweets.csv
+├── Hurricane_CN queries.csv
+├── Hurricane_SA tweets.csv
+├── Wildfire_CN queries.csv
+└── Wildfire_SA tweets.csv
