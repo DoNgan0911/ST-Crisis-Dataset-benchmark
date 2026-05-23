@@ -1,0 +1,94 @@
+﻿index,cn_query,lat,lon,created_at,need_type
+1,How can I help with the #Harvey recovery effort?,30.259976257768653,-94.20122597,Fri Sep 01 00:36:28 +0000 2017,resource_coordination
+2,Where can I find available shelters in the Dallas area?,32.78466113138243,-96.79173058,Fri Sep 01 15:52:33 +0000 2017,shelter
+3,"How can I donate to help those affected by the flooding in Houston, Texas?",29.77213228498174,-95.37040701,Sun Aug 27 13:53:29 +0000 2017,resource_coordination
+4,"Where can I find damage assessment maps for Corpus Christi, Texas, after Hurricane Harvey?",27.802403472438808,-97.39059783,Wed Aug 30 11:09:09 +0000 2017,logistics
+5,Where can I find alternative shelter options for the overflow of evacuees at the George R Brown Convention Center?,29.762941776232303,-95.35003179,Tue Aug 29 21:33:52 +0000 2017,shelter
+6,"How can I get food assistance from the CTXFoodBank in Austin, TX?",30.27953437950798,-97.74462523,Thu Aug 31 00:03:17 +0000 2017,logistics
+7,How can I get involved in the relief mission from Houston tonight?,29.772051934567468,-95.36852715,Fri Sep 01 23:46:39 +0000 2017,resource_coordination
+8,Where can I donate water at the Gulf Healthcare Center this weekend?,29.72973309,-95.45104827,Fri Sep 01 02:32:17 +0000 2017,logistics
+9,"How can I volunteer at a church rescue in Houston, Texas?",29.76701624218113,-95.36775595,Tue Aug 29 21:09:09 +0000 2017,resource_coordination
+10,"Where is the volunteer sign-up location in Austin, Texas, for tomorrow at 7 p.m.?",30.27880944848141,-97.74694287,Wed Aug 30 11:16:17 +0000 2017,resource_coordination
+11,How can I donate to disaster relief in Houston after Hurricane Harvey?,29.75314176462968,-95.36301945,Tue Aug 29 22:01:03 +0000 2017,resource_coordination
+12,"Where can I find cots and shelter in College Station, Texas?",30.63130296986786,-96.33486219,Wed Aug 30 11:22:06 +0000 2017,shelter
+13,How can I donate $10 to help pets and shelters in Texas affected by Hurricane Harvey?,30.031709052298737,-94.88617144,Tue Aug 29 19:01:29 +0000 2017,resource_coordination
+14,Is there a safe evacuation route from the area around the Arkema chemical plant in Aransas?,28.098750719900384,-97.00570412,Fri Sep 01 23:12:04 +0000 2017,transportation
+15,"What is the current damage situation in Port Aransas, Texas, after Hurricane Harvey?",27.823361717581985,-97.05578653,Sat Aug 26 19:55:45 +0000 2017,logistics
+16,Where can I find water rescue services in Houston?,29.758427895386266,-95.37530232,Tue Aug 29 18:15:04 +0000 2017,resource_coordination
+17,"How can I help people trapped in homes in Beaumont, Texas, as the water rises?",30.085432250840363,-94.11329609,Wed Aug 30 13:48:19 +0000 2017,resource_coordination
+18,"How can I donate to the North Texas Food Bank in Dallas, Texas, to support Hurricane Harvey relief?",32.79205282298623,-96.80573382,Wed Aug 30 14:05:22 +0000 2017,resource_coordination
+19,Is there a hotel offering shelter to evacuees and their pets in Houston?,29.74741191406144,-95.37943147,Tue Aug 29 20:44:49 +0000 2017,shelter
+20,How can I donate $10 to the Red Cross for Hurricane Harvey relief?,29.75921772116929,-95.37365413,Tue Aug 29 22:00:56 +0000 2017,resource_coordination
+21,How can I volunteer or get involved in the relief efforts at the concert?,29.75889467236537,-95.38970216,Tue Aug 29 21:50:05 +0000 2017,resource_coordination
+22,Where can I find information about the arrival of evacuees in Dallas and the shelter at the Kay Bailey Hutchison Convention Center?,32.784338018562536,-96.78342742,Fri Sep 01 03:24:01 +0000 2017,shelter
+23,"What evacuation routes and shelters are available in Houston, Texas?",29.76736106179739,-95.38808771,Sun Aug 27 14:28:57 +0000 2017,transportation
+24,Where can I submit a request for assistance through the Texas REALTORS Relief Fund?,29.742038590085567,-95.34646009,Tue Aug 29 21:41:23 +0000 2017,resource_coordination
+25,How can I volunteer at the Greater Houston Relief Base tonight?,29.76790935471068,-95.37317691,Fri Sep 01 08:11:05 +0000 2017,resource_coordination
+26,Where can I get rescued in Houston today?,29.75689921352511,-95.38351261,Tue Aug 29 21:51:58 +0000 2017,resource_coordination
+27,"Where can I get bottled water in Victoria, Texas?",28.801930706927628,-97.00000605,Tue Aug 29 21:29:11 +0000 2017,logistics
+28,What areas in Texas and Louisiana are still experiencing flooding from Harvey?,29.62705658585428,-95.64607407,Wed Aug 30 12:56:41 +0000 2017,logistics
+29,Are there evacuation centers available in west Houston neighborhoods?,29.746306448133016,-95.37256831,Tue Aug 29 21:11:49 +0000 2017,shelter
+30,"What's the current status of parking and road infrastructure in Channelview, TX, after the flooding?",29.772868370271205,-95.10412964,Fri Sep 01 20:06:39 +0000 2017,transportation
+31,Is the Gulf Healthcare Center still operational and providing medical services after the flooding?,29.74462635801245,-95.4447387,Thu Aug 31 01:03:14 +0000 2017,logistics
+32,Where can I find available shelters in Dallas that can accommodate evacuees?,32.78092205,-96.80272153,Tue Aug 29 19:37:26 +0000 2017,shelter
+33,"Where can I find information on search and rescue efforts on Business 35 south of Rockport, TX?",28.034307654778747,-97.05984164,Sun Aug 27 06:10:01 +0000 2017,resource_coordination
+34,Where can I find help for removing debris from my home after the hurricane?,29.759715306340347,-95.36489083,Fri Sep 01 23:40:34 +0000 2017,logistics
+35,How can I donate to help those affected by the disaster in Houston?,29.76105684,-95.35135003,Tue Aug 29 20:50:35 +0000 2017,resource_coordination
+36,Where can I find free accommodations for hurricane evacuees in Houston?,29.74800395,-95.35546605,Sun Aug 27 08:37:37 +0000 2017,shelter
+37,What evacuation routes and shelters are available in Harris County for Hurricane Harvey?,29.764211718359256,-95.32278313,Fri Aug 25 01:15:00 +0000 2017,transportation
+38,"How can I donate to the relief efforts in Houston, Texas?",29.75383549129506,-95.37021967,Fri Sep 01 01:00:46 +0000 2017,resource_coordination
+39,Where can I find available shelters in Houston?,29.754893642041534,-95.38664797,Tue Aug 29 12:45:00 +0000 2017,shelter
+40,"What are the available shelters in Houston, Texas for displaced people?",29.763351719449453,-95.3740128,Wed Aug 30 15:16:46 +0000 2017,shelter
+41,What alternative organizations can I donate to for Hurricane Harvey relief in Houston?,29.767988479621145,-95.38215304,Tue Aug 29 21:45:24 +0000 2017,resource_coordination
+42,Where can I donate to Harvey victims in Sugar Land?,29.62222314148767,-95.63952294,Wed Aug 30 11:10:23 +0000 2017,resource_coordination
+43,"What items are needed for evacuees in Austin, Texas?",30.263240334154226,-97.73687968,Tue Aug 29 20:52:49 +0000 2017,food_water
+44,Are there evacuation centers in Louisiana for those affected by Hurricane Harvey's aftermath?,29.75952228801914,-95.35153979,Fri Sep 01 19:15:47 +0000 2017,shelter
+45,"How can I volunteer for the Hurricane Harvey relief meet in Hurst, Texas, on August 29th?",29.768745457099985,-95.30330062,Tue Aug 29 21:53:00 +0000 2017,resource_coordination
+46,"How do I register for FEMA assistance at the convention center in Houston, Texas?",29.76037309279985,-95.36978504,Thu Aug 31 20:38:38 +0000 2017,logistics
+47,How can I support relief efforts in Texas and Houston?,29.736620563858672,-95.44745344,Thu Aug 31 20:38:31 +0000 2017,resource_coordination
+48,What is the current capacity of the George R. Brown Convention Center in Port Lavaca?,28.60771517729104,-96.64089977,Tue Aug 29 18:44:24 +0000 2017,shelter
+49,"How can I donate to flood relief efforts in Harris County, Texas, without supporting administrative costs?",29.78386122449507,-95.32298344,Wed Aug 30 10:45:22 +0000 2017,resource_coordination
+50,What is the current damage assessment status in the Corpus Christi Port area?,27.805747798933265,-97.40169206,Wed Aug 30 06:59:17 +0000 2017,logistics
+51,"How can I help rescue animals in Dayton, Ohio, affected by the flooding?",30.046642082169857,-94.88803826,Fri Sep 01 22:25:39 +0000 2017,resource_coordination
+52,"Are there any emergency response teams available in Victoria, Texas, and Corpus Christi?",28.78962449860742,-97.00462891,Tue Aug 29 21:57:59 +0000 2017,resource_coordination
+53,How can I donate to support the Texas Food Bank Network and Texas Diaper Bank?,28.806154449530588,-97.0040466,Fri Sep 01 06:06:18 +0000 2017,resource_coordination
+54,Where can I find information on pet relocation efforts from Texas to New Jersey?,29.162295674641346,-95.43988367,Wed Aug 30 13:22:57 +0000 2017,transportation
+55,Where can I donate to Hurricane Harvey recovery tonight in the City Hall Courtyard?,29.75989809,-95.36904215,Thu Aug 31 20:35:16 +0000 2017,resource_coordination
+56,"Where can I find water rescue services in Missouri City, Texas?",29.63156895446928,-95.52667187,Tue Aug 29 18:16:35 +0000 2017,resource_coordination
+57,"Is there a voluntary evacuation in place for Inverness Forest, north of Houston?",29.76379534146817,-95.37923331,Wed Aug 30 00:25:10 +0000 2017,transportation
+58,Where is the Hurricane Harvey mega shelter located in Austin?,30.25969780177198,-97.73395139,Fri Sep 01 10:49:04 +0000 2017,shelter
+59,Are there any recovery centers or services available in Aransas County for damage assessment and support?,28.61509881524897,-96.62183164,Sat Aug 26 13:59:17 +0000 2017,logistics
+60,"How can I volunteer to help with pet rescue in College Station, Texas?",30.63095129898233,-96.32949883,Tue Aug 29 22:09:32 +0000 2017,resource_coordination
+61,"Where can I drop off donations in Austin, Texas, for Hurricane Harvey evacuees?",30.25957856033722,-97.72762794,Tue Aug 29 20:47:22 +0000 2017,logistics
+62,Is the Rainbow Bridge closed due to high water?,29.885218615619507,-93.93992979,Tue Aug 29 20:50:01 +0000 2017,transportation
+63,"Where can I find kosher food assistance in Brazoria, Texas, after the hurricane?",29.181461367699665,-95.43555021,Tue Aug 29 22:41:47 +0000 2017,food_water
+64,Where can I find evacuation instructions and information in Cypress?,29.977967569655924,-95.70789557,Tue Aug 29 21:04:33 +0000 2017,transportation
+65,"Where can I find rescue services in Channelview, Texas, ASAP?",29.77534295271885,-95.1225012,Wed Aug 30 10:59:19 +0000 2017,resource_coordination
+66,What are the locations of open shelters for evacuees from Hurricane Harvey in Central Texas?,27.847316654948827,-97.06714995,Fri Aug 25 23:49:37 +0000 2017,shelter
+67,Where can I transport donated items to support shelters in Austin?,30.265941242987413,-97.74506242,Fri Sep 01 18:58:33 +0000 2017,logistics
+68,Are there any local shelters where I can volunteer with children?,29.75830886616533,-95.36326145,Wed Aug 30 12:35:05 +0000 2017,resource_coordination
+69,Are there any available campgrounds or RV parks in the Sour Lake area for Harvey evacuees?,30.15549637636136,-94.39763884,Tue Aug 29 23:07:54 +0000 2017,shelter
+70,What is the address of the shelter for Harvey evacuees in College Station?,30.63290343238869,-96.34096359,Tue Aug 29 18:22:31 +0000 2017,shelter
+71,How can I donate to food banks in the Cypress area?,29.979657718421016,-95.7057923,Tue Aug 29 20:50:18 +0000 2017,resource_coordination
+72,Where can I find information on the latest rescue efforts in the Cypress Creek area?,29.747343165935494,-95.38317021,Fri Sep 01 00:30:39 +0000 2017,resource_coordination
+73,How can I donate to the local shelter in Austin taking in animals affected by the floods?,30.26547494,-97.74593148,Tue Aug 29 18:34:57 +0000 2017,resource_coordination
+74,"Where is the mega-shelter for Harvey evacuees located in Orange, Texas?",30.085231076125407,-93.73324971,Tue Aug 29 21:09:52 +0000 2017,shelter
+75,How can I get my well water tested in Houston or surrounding counties?,29.76275596677857,-95.3701366,Fri Sep 01 23:35:04 +0000 2017,logistics
+76,Where can I find alternative shelter in Port Arthur after the shelter flooded?,29.87771106637637,-93.94815276,Wed Aug 30 12:54:34 +0000 2017,shelter
+77,"How do I report residential debris and damage in Cypress, Harris County?",29.971310589227425,-95.69873747,Fri Sep 01 01:15:36 +0000 2017,logistics
+78,"Where can I find information about the mandatory evacuation order in Orange, Texas?",30.092419509313885,-93.73715499,Thu Aug 31 21:26:43 +0000 2017,transportation
+79,How can I donate to the Red Cross to assist rescue efforts in Texas?,29.76209295053441,-95.37052725,Sun Aug 27 14:45:56 +0000 2017,resource_coordination
+80,"If I know of animals in need or left behind in Channelview, Texas, where can I report them?",29.77124808262309,-95.1143199,Thu Aug 31 00:13:04 +0000 2017,logistics
+81,How can I volunteer at a shelter in Houston tonight?,29.76495263892439,-95.35607425,Tue Aug 29 18:12:15 +0000 2017,resource_coordination
+82,"Where are nonprofits with special offers for Harvey evacuees in Abilene, Texas?",29.913057826545973,-95.04792142,Fri Sep 01 17:46:40 +0000 2017,shelter
+83,"When can I expect power to be restored in Aransas County, Texas?",28.086623322014884,-96.99230327,Tue Aug 29 22:07:47 +0000 2017,logistics
+84,"Where can I find help for stranded people in Houston, Texas?",29.76097011,-95.37253263,Tue Aug 29 20:46:20 +0000 2017,resource_coordination
+85,Where are the mega-shelters and other shelters in Dallas for Harvey evacuees?,32.77759446330288,-96.79129759,Tue Aug 29 22:06:59 +0000 2017,shelter
+86,"How can I help rescue people trapped in collapsed buildings in Rockport, Texas?",28.015601717922088,-97.06940013,Sat Aug 26 05:10:05 +0000 2017,resource_coordination
+87,"Where can I find search and rescue operations in Houston, Texas?",29.753270941689724,-95.3822719,Tue Aug 29 21:35:56 +0000 2017,resource_coordination
+88,How can I volunteer at food banks in Corpus Christi?,27.80100471699077,-97.39669198,Wed Aug 30 00:20:56 +0000 2017,resource_coordination
+89,How can I donate to support Refugee Services of Texas in Houston?,29.619697254891733,-95.63461481,Tue Aug 29 20:50:00 +0000 2017,resource_coordination
+90,"How can I get power restored in the ERCOT region, including Houston?",29.75738395558753,-95.38882097,Sun Aug 27 12:48:20 +0000 2017,logistics
+91,What evacuation routes and shelters are available for Harris County residents?,29.763920355891337,-95.30836358,Tue Aug 29 18:34:01 +0000 2017,transportation
+92,"How can I get food and water assistance in Brazoria, Texas, after Hurricane Harvey?",29.17911321427764,-95.42249951,Thu Aug 31 22:14:27 +0000 2017,food_water
+93,Where can I find shelter in Galveston County after being displaced from my home?,27.831547949090087,-97.06530164,Wed Aug 30 15:29:18 +0000 2017,shelter
